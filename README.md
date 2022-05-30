@@ -1,7 +1,7 @@
 # Detecting-Hand-Written-Numbers
 Using KNN, ANN and SVM models to classify hand written numbers. The experimentation also involved comparing results from raw data and results post feature extraction using Histogram-of-Oriented Gradient (HOG).
 
-Classifier/Feature	    HOG	        Raw Input
+Classifier/Feature \tab HOG	        Raw Input
 
 KNN	                    0.8676	    0.9705
 
